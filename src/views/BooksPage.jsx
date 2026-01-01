@@ -17,7 +17,7 @@ function BooksPage() {
     }
   })
   
-  const pageTitle = "📖 Book List with Router, Redux & Firebase";
+  const pageTitle = "📖 Book List";
     
     
     return (
